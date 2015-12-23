@@ -1,7 +1,7 @@
-package com.narsimhulu.raspberry;
+package com.sairam.raspberry;
 
 
-import com.narsimhulu.aws.KinesisClient;
+import com.sairam.aws.KinesisClient;
 import com.pi4j.io.gpio.*;
 import com.pi4j.io.gpio.event.GpioPinListenerDigital;
 

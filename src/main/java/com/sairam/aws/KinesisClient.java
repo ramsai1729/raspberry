@@ -1,4 +1,4 @@
-package com.narsimhulu.aws;
+package com.sairam.aws;
 
 import com.amazonaws.auth.ClasspathPropertiesFileCredentialsProvider;
 import com.amazonaws.services.kinesis.AmazonKinesisClient;

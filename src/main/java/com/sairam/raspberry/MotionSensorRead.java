@@ -1,6 +1,6 @@
-package com.narsimhulu.raspberry;
+package com.sairam.raspberry;
 
-import com.narsimhulu.aws.KinesisClient;
+import com.sairam.aws.KinesisClient;
 
 import java.util.List;
 
